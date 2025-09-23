@@ -1,0 +1,50 @@
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider/VSCode
+.idea/
+.vscode/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Logs
+logs/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Tooling
+/.vs/
+*.swp
+*.swo
+# Build artifacts
+bin/
+obj/
+
+# Rider/VS/VSCode
+.idea/
+.vs/
+.vscode/
+**/*.user
+**/*.suo
+*.userprefs
+
+# Logs
+*.log
+
+# ASP.NET generated
+wwwroot/lib/
+
+# OS
+.DS_Store
+Thumbs.db
